@@ -1,0 +1,36 @@
+Link targets with SiteCatalyst tags
+
+120x30	http://store.ovi.com/content/214555
+120x20	http://store.ovi.com/content/214555
+168x42	http://store.ovi.com/content/214555
+967x277	http://store.ovi.com/content/214555
+160x600	http://store.ovi.com/content/214555
+300x250	http://store.ovi.com/content/214555
+234x60	http://store.ovi.com/content/214555
+74x74	http://store.ovi.com/content/214555
+120x20	http://store.ovi.com/content/214555
+120x600	http://store.ovi.com/content/214555
+160x600	http://store.ovi.com/content/214555
+216x54	http://store.ovi.com/content/214555
+468x60	http://store.ovi.com/content/214555
+111x111	http://store.ovi.com/content/214555
+111x111	http://store.ovi.com/content/214555
+120x600	http://store.ovi.com/content/214555
+967x277	http://store.ovi.com/content/214555
+728x90	http://store.ovi.com/content/214555
+216x36	http://store.ovi.com/content/214555
+234x60	http://store.ovi.com/content/214555
+300x250	http://store.ovi.com/content/214555
+300x50	http://store.ovi.com/content/214555
+74x74	http://store.ovi.com/content/214555
+216x54	http://store.ovi.com/content/214555
+728x90	http://store.ovi.com/content/214555
+168x42	http://store.ovi.com/content/214555
+168x28	http://store.ovi.com/content/214555
+300x75	http://store.ovi.com/content/214555
+468x60	http://store.ovi.com/content/214555
+216x36	http://store.ovi.com/content/214555
+300x75	http://store.ovi.com/content/214555
+300x50	http://store.ovi.com/content/214555
+120x30	http://store.ovi.com/content/214555
+168x28	http://store.ovi.com/content/214555
